@@ -1,2 +1,3 @@
-pnpm install
-pnpm run start:dev
+`pnpm install`
+
+`pnpm run start:dev`
